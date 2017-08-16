@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LIS 198: Introduction to Digital Humanities
 
 You can use the [editor on GitHub](https://github.com/LIS198DH/LIS198DH.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
