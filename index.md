@@ -5,7 +5,7 @@
 - Develop technological competence, information literacy and collaborative skills by initiating and managing a digital humanities project
 
 ### Members
-1. username
+1. akizuki12
 1. username
 1. username
 
