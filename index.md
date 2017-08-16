@@ -10,5 +10,7 @@
 1. username
 
 ### August 16 Activity
-1. Edit this documents by adding your GitHub username under the members section using the proper [markdowns] (https://guides.github.com/features/mastering-markdown/)
-1. Articulate the key points you got from this week's assigned readings and upload it to [Key Points Repository] (https://github.com/LIS198DH/key_points.git)
+1. Edit this documents by adding your GitHub username under the members section using the proper 
+[markdowns] (https://guides.github.com/features/mastering-markdown/)
+1. Articulate the key points you got from this week's assigned readings and upload it to 
+[Key Points Repository] (https://github.com/LIS198DH/key_points.git)
