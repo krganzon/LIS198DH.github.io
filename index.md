@@ -9,9 +9,15 @@
 1. eelingatong
 1. username
 1. beabcruz
-1. tp-angeles
 
-1.agdelvalle
+
+
+
+
+
+
+
+1. sampepito
 
 ### August 16 Activity
 1. Edit this document (https://guides.github.com/activities/forking/) by adding your GitHub username under the members section using the proper markdowns (https://guides.github.com/features/mastering-markdown/)
