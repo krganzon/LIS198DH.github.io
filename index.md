@@ -5,9 +5,9 @@
 - Develop technological competence, information literacy and collaborative skills by initiating and managing a digital humanities project
 
 ### Members
-1.
-1.
-1.
+1. username
+1. username
+1. username
 
 ### August 16 Activity
 1. Edit this documents by adding your GitHub username under the members section using the proper markdown https://guides.github.com/features/mastering-markdown/
